@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fabian
 
-- 🔭 I’m currently working on @volo-db
+- 🔭 I’m currently working on [VoloDB](https://github.com/volo-db)
 - 💬 Feel free to get in touch with me!
 
 <!--
